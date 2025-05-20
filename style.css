@@ -1,0 +1,63 @@
+.title{
+    text-align: center;
+}
+.first-tag{
+    color: brown;
+    text-transform:capitalize;
+}
+.last-tag{
+    color: brown;
+    text-transform:capitalize;
+}
+.gmail-tag{
+    text-transform: capitalize;
+    color: brown;
+}
+.number-tag{
+    text-transform: capitalize;
+    color: brown;
+}
+.city-tag{
+    color: brown;
+    text-transform: capitalize;
+}
+.area{
+    color: brown;
+    text-transform: capitalize;
+}
+.far{
+    background-color:lightseagreen;
+    color:black;
+    width: 350px;
+    border-radius: 30px;
+
+}
+.continer{
+    background-color:gainsboro ;
+    width: 35%;
+    padding: 20px;
+    /* display: grid;
+    display: inline-grid; */
+    border: 2px;
+    /* margin-left: 435px; */
+}
+.sub:hover{
+    color:aquamarine
+
+}
+body{
+    background-color:#E50914;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
+.pass{
+    text-align: center;
+    font-size:12px;
+}
+.input{
+    width: 300px;
+}
+
+
